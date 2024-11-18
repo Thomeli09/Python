@@ -1,10 +1,9 @@
 # Analyse-des-structures
 ## Objectifs:
-Le but de cette page est de créer une application capable de résoudre la plupart des problèmes rencontrés dans le monde de l'ingénieur des constructions et plus particulièrement les soucis liés aux structures.
-Cette application contiendra donc des outils d'entrée de donnée, des outils de modélisation et enfin des outils de calculs et vérification de résistance.
+Le but de cette page est de créer une application capable de résoudre la plupart des problèmes rencontrés dans le monde de l'ingénieur des constructions.
 ## Note:
 - Les calculs seront basés sur la version belge des eurocodes.
-- Le langage de programmation utilisé est principalement Python, mais peut changer éventuellement.
+- Le langage de programmation utilisé est Python.
 ## Disclaimer:
 L'auteur du code décline toutes responsabilités en cas de blessure et/ou dégâts réalisés sur des personnes ou biens, provenant d'une erreur, négligence ou tout autre chose, ou de n'importe quelle utilisation du code, méthode, instructions ou idées contenues dans ce github. 
 
